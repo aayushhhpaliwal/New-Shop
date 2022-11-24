@@ -39,6 +39,7 @@ function App() {
           <Route path="/contact" element={<Contact />} />
         </Routes>
       </Router>
+      <a href="https://github.com/aayushhhpaliwal"><h4> Made by Aayush : Follow for more</h4></a>
     </div>
   );
 }
